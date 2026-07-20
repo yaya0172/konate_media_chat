@@ -1,0 +1,9 @@
+REMPLACE CE FICHIER par ton vrai fichier "google-services.json"
+téléchargé depuis la Console Firebase (celui que tu as déjà sur ton ordinateur,
+dans le dossier Téléchargements).
+
+Étapes :
+1. Supprime ce fichier texte (google-services.json) dans GitHub
+2. Upload ton vrai fichier google-services.json à la même place
+   (dossier /source/ à la racine du dépôt)
+3. Garde exactement le même nom : google-services.json
